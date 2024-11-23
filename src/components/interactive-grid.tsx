@@ -70,7 +70,7 @@ export function InteractiveGrid() {
           return (
             <div
               key={i}
-              className="border border-neutral-800 transition-all duration-300 aspect-square"
+              className="grid-cell border border-neutral-800 transition-all duration-300 aspect-square"
               style={{
                 background: `radial-gradient(circle at center, 
                   rgba(255, 255, 255, ${distance * 0.2}),
