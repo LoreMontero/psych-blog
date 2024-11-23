@@ -15,12 +15,11 @@ const sources = [
   },
   {
     title: "Goal Setting Theory",
-    author: "BetterUp",
     author: "Deanna Debara",
     year: "2022",
     publication: "BetterUp",
     link: "https://www.betterup.com/blog/goal-setting-theory?t"
-  }
+  },
 
 ];
 
